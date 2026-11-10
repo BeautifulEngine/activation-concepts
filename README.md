@@ -6,7 +6,7 @@ Turn a brand, a place and a budget into three experiential concepts a client can
 
 ![Pages from a sample Activation Concepts: title, guest journey, floor plan and build, budget and risks](docs/preview.png)
 
-**See the full sample:** [Sample-Northfield-Activation-Concepts.pdf](examples/Sample-Northfield-Activation-Concepts.pdf) (fictional names and figures)
+**See the full sample:** [Sample-Patagonia-at-Outside-Lands-Activation-Concepts.pdf](examples/Sample-Patagonia-at-Outside-Lands-Activation-Concepts.pdf) (an unofficial spec sample with real brands and sourced figures; not affiliated with or endorsed by Patagonia or Outside Lands)
 
 Made by Beautiful Engine · [beautifulengine.com](https://www.beautifulengine.com) · [Questions or ideas? Open an issue](https://github.com/BeautifulEngine/activation-concepts/issues/new)
 
