@@ -4,9 +4,9 @@ Turn a brand, a place and a budget into three experiential concepts a client can
 
 **What you get:** Develops three experiential activation concepts for a brand at a venue, event or public space and delivers them as a designed 16:9 concept deck PDF with presenter notes. Each concept gets the big idea, the guest journey step by step, a simple floor plan diagram, materials and fabrication notes, tech, staffing, timeline, a budget range, risks and permits, and how success is measured.
 
-![Pages from a sample Activation Concepts: title, guest journey, floor plan and build, budget and risks](docs/preview.png)
+![Pages from a sample Activation Concepts: title, the brief, guest journey, floor plan and build](docs/preview.png)
 
-**See the full sample:** [Sample-Patagonia-at-Outside-Lands-Activation-Concepts.pdf](examples/Sample-Patagonia-at-Outside-Lands-Activation-Concepts.pdf) (an unofficial spec sample with real brands and sourced figures; not affiliated with or endorsed by Patagonia or Outside Lands)
+**See the full sample:** [Sample-Patagonia-at-Outside-Lands-Activation-Concepts.pdf](examples/Sample-Patagonia-at-Outside-Lands-Activation-Concepts.pdf) (an unofficial spec sample in Patagonia's colors, with sourced figures and credited, freely licensed photos; not affiliated with or endorsed by Patagonia or Outside Lands)
 
 Made by Beautiful Engine · [beautifulengine.com](https://www.beautifulengine.com) · [Questions or ideas? Open an issue](https://github.com/BeautifulEngine/activation-concepts/issues/new)
 
